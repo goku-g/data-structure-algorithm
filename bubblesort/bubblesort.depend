@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602663955 source:c:\users\goku\documents\code blocks\computer_graphics\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1602663955 source:c:\users\goku\documents\code blocks\data_structure_algirithm\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+
